@@ -1,0 +1,26 @@
+
+{
+  "name": "DEFI",
+  "logoURI": "https://svgsilh.com/svg/1699635.svg",
+  "keywords": [
+      "defi",
+      "DEFI",
+      "yield"
+    ],
+    "timestamp": "2020-09-01T01:40:34.305Z",
+    "tokens": [
+      {
+      "chainId": 97,
+      "address": "0x3671d83fe570c1b7fa47Eeac2A98B49914c3b563",
+      "name": "FIST",
+      "symbol": "FIST",
+      "decimals": 18,
+      "logoURI": "https://svgsilh.com/svg/303199.svg"
+      }
+    ],
+    "version": {
+      "major": 0,
+      "minor": 0,
+      "patch": 0
+    }
+}
